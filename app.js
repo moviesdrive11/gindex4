@@ -5491,7 +5491,7 @@ document.write(
   '<script src="//cdn.jsdelivr.net/gh/moviesdrive11/gindex4@main/js/flv.min.js"></script>'
 );
 document.write(
-  '<script src="//cdn.jsdelivr.net/gh/moviesdrive11/gindex4@main/js/DPlayer.min.js"></script>'
+  '<script src="//cdn.jsdelivr.net/gh/moviesdrive11/gindex4@master/js/DPlayer.min.js"></script>'
 );
 document.write(
   '<script src="//cdn.jsdelivr.net/gh/moviesdrive11/gindex4@main/js/markdown-it.min.js"></script>'
